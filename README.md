@@ -1,4 +1,5 @@
-# vue-course
+# Task-Manager-project-vuejs
+Crash Project can Add ,Delete Task Using VueJs
 
 ## Project setup
 ```
@@ -17,3 +18,4 @@ npm run build
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
