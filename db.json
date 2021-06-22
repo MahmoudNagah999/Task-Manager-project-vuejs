@@ -1,0 +1,22 @@
+{
+  "tasks": [
+    {
+      "text": "goooo",
+      "day": "morning sunday",
+      "reminder": true,
+      "id": 2
+    },
+    {
+      "text": "js",
+      "day": "sunday",
+      "reminder": true,
+      "id": 3
+    },
+    {
+      "text": "take a break",
+      "day": "weekend",
+      "reminder": true,
+      "id": 4
+    }
+  ]
+}
